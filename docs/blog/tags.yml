@@ -1,0 +1,124 @@
+facebook:
+  label: Facebook
+  permalink: /facebook
+  description: Facebook tag description
+
+hello:
+  label: Hello
+  permalink: /hello
+  description: Hello tag description
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+hola:
+  label: Hola
+  permalink: /hola
+  description: Hola tag description
+
+release:
+  label: Release
+  permalink: /release
+  description: New version releases and updates
+
+storekit2:
+  label: StoreKit 2
+  permalink: /storekit2
+  description: Apple StoreKit 2 related topics
+
+billing-client-v8:
+  label: Billing Client v8
+  permalink: /billing-client-v8
+  description: Android Billing Client v8 related topics
+
+flutter:
+  label: Flutter
+  permalink: /flutter
+  description: Flutter framework related topics
+
+in-app-purchase:
+  label: In-App Purchase
+  permalink: /in-app-purchase
+  description: In-app purchase implementation and best practices
+
+ios:
+  label: iOS
+  permalink: /ios
+  description: Apple iOS platform updates
+
+openiap:
+  label: OpenIAP
+  permalink: /openiap
+  description: OpenIAP ecosystem updates
+
+breaking-change:
+  label: Breaking Change
+  permalink: /breaking-change
+  description: Breaking changes and migration guides
+
+alternative-billing:
+  label: Alternative Billing
+  permalink: /alternative-billing
+  description: Alternative billing and external payment features
+
+iapkit:
+  label: IAPKit
+  permalink: /iapkit
+  description: IAPKit integration for purchase verification
+
+verification:
+  label: Verification
+  permalink: /verification
+  description: Purchase verification and receipt validation
+
+backend:
+  label: Backend
+  permalink: /backend
+  description: Backend integration and server-side features
+
+security:
+  label: Security
+  permalink: /security
+  description: Security features and best practices
+
+billing-programs:
+  label: Billing Programs
+  permalink: /billing-programs
+  description: Google Play Billing Programs API features
+
+type-inference:
+  label: Type Inference
+  permalink: /type-inference
+  description: Type inference and generic type improvements
+
+horizon-os:
+  label: Horizon OS
+  permalink: /horizon-os
+  description: Meta Horizon OS platform support
+
+meta-quest:
+  label: Meta Quest
+  permalink: /meta-quest
+  description: Meta Quest VR device support
+
+android:
+  label: Android
+  permalink: /android
+  description: Android platform updates
+
+billing:
+  label: Billing
+  permalink: /billing
+  description: Google Play Billing Library updates
+
+attribution:
+  label: Attribution
+  permalink: /attribution
+  description: App attribution and commerce data tracking
+
+external-payments:
+  label: External Payments
+  permalink: /external-payments
+  description: External payments program support
